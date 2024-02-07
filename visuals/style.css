@@ -1,0 +1,12 @@
+
+*{
+    color: aliceblue;
+    font-family: 'Roboto Mono', monospace;
+    font-size: medium;
+}
+#menu{
+    width: 25%;
+    height: 1000px;
+    background-color: aliceblue;
+    position: absolute;
+}
